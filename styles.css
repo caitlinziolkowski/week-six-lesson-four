@@ -1,12 +1,10 @@
 .body-text {
   font-family: "Poppins", sans-serif;
   border: 1px solid #885df1;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
-.card-body {
-  opacity: 60%;
-}
+
 
 .form-control {
   font-weight: 200;
