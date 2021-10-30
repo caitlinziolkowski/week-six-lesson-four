@@ -4,8 +4,6 @@
   border-radius: 10px;
 }
 
-
-
 .form-control {
   font-weight: 200;
   opacity: 90%;
@@ -21,10 +19,7 @@
 }
 
 .classic {
-  font-size: 45px;
+  font-size: 100pt;
 }
 
-.weather {
-  font-size: 65px;
-  color: yellow;
-}
+
