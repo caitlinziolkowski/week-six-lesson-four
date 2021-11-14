@@ -1,7 +1,11 @@
 .body-text {
   font-family: "Poppins", sans-serif;
   border: 1px solid #885df1;
-  border-radius: 10px;
+  border-radius: 5px;
+}
+
+.card-body {
+  opacity: 60%;
 }
 
 .form-control {
@@ -19,7 +23,10 @@
 }
 
 .classic {
-  font-size: 100pt;
+  font-size: 45px;
 }
 
-
+.weather {
+  font-size: 65px;
+  color: yellow;
+}
