@@ -41,7 +41,7 @@ let searchForm = document.querySelector("#search-city-form");
 searchForm.addEventListener("submit", search);
 
 //Wk 5 Search Engine homework assignment
-searchCity("Seattle");
+searchCity("Los Angeles");
 
 function showTemperature(response) {
   console.log(response.data);
@@ -58,6 +58,7 @@ function showTemperature(response) {
   windElement.innerHTML = `Wind: ${response.data.wind.speed} mph`;
   cityElement.innerHTML = response.data.name;
 }
+
 
 //Wk 5 Bonus Point
 //function showTemp1() {
