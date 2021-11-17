@@ -41,7 +41,7 @@ let searchForm = document.querySelector("#search-city-form");
 searchForm.addEventListener("submit", search);
 
 //Wk 5 Search Engine homework assignment
-searchCity("Los Angeles");
+searchCity("Seattle");
 
 function showTemperature(response) {
   console.log(response.data);
